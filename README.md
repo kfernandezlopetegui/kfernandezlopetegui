@@ -23,7 +23,7 @@ I teach Electronics at technical high schools and build projects that bridge har
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🥭 Mango](https://github.com/kfernandezlopetegui/mango) | Full-stack pet social network — posts, likes, comments, admin panel | Angular · NestJS · MongoDB |
+| [🥭 Mango](https://github.com/kfernandezlopetegui/mango-social) | Full-stack pet social network — posts, likes, comments, admin panel | Angular · NestJS · MongoDB |
 | [🍽️ La Comandita](https://github.com/kfernandezlopetegui/la-comandita-2025) | Restaurant management app — reservations, real-time delivery tracking, PDF invoicing | Ionic · Angular · Firebase |
 | [💸 AhorroAR](https://github.com/kfernandezlopetegui/ahorroar) | Smart savings app — bank promos scraper, price comparator, barcode scanner | Ionic · NestJS · Supabase |
 | [🎮 GameRoom](https://github.com/kfernandezlopetegui/game-room-angular) | Web gaming suite with 4 mini-games including an original audio memory game | Angular · HTML5 Audio API |
