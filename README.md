@@ -28,4 +28,4 @@ I teach Electronics at technical high schools and build projects that bridge har
 | [💸 AhorroAR](https://github.com/kfernandezlopetegui/ahorroar) | Smart savings app — bank promos scraper, price comparator, barcode scanner | Ionic · NestJS · Supabase |
 | [🎮 GameRoom](https://github.com/kfernandezlopetegui/game-room-angular) | Web gaming suite with 4 mini-games including an original audio memory game | Angular · HTML5 Audio API |
 ## 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/karen-fernandez-lopetegui-056936341)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenfernandez-056936341)
