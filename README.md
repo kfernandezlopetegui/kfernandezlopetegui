@@ -48,10 +48,10 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [💸 **AhorroAR**](https://github.com/kfernandezlopetegui/ahorroar) | Smart savings app — bank promotions aggregator with async workers, price comparator, barcode scanner | NestJS · Supabase · BullMQ · Redis · Ionic · Angular |
-| [🥭 **Mango Social**](https://github.com/kfernandezlopetegui/mango-social) | Full-stack pet social network — posts, likes, comments, admin panel | NestJS · MongoDB · Angular |
+| [🥭 **Mango Social**](https://github.com/kfernandezlopetegui/mango-social) | Full-stack pet social network — posts, likes, comments, admin panel and JWT-based authentication | NestJS · MongoDB · Angular · JWT |
 | [🍽️ **La Comandita**](https://github.com/kfernandezlopetegui/la-comandita-2025) | Restaurant management app — reservations, real-time delivery tracking, PDF invoicing | Ionic · Angular · Firebase |
 | [📚 **SysAcad**](https://github.com/kfernandezlopetegui/SYSACAD) | Academic management system — student records, courses, enrollments and grading | C# · .NET · Windows Forms |
-| [🍴 **API-Comanda**](https://github.com/kfernandezlopetegui/API-COMANDA) | REST API for restaurant order management — CRUD endpoints, authentication, role handling | PHP · MySQL |
+| [🍴 **API-Comanda**](https://github.com/kfernandezlopetegui/API-COMANDA) | REST API for restaurant order management — CRUD endpoints, authentication and role handling | PHP · Slim · MySQL |
 | [🎮 **GameRoom**](https://github.com/kfernandezlopetegui/game-room-angular) | Web gaming suite with 4 mini-games including an original audio memory game | Angular · HTML5 Audio API |
 
 ---
